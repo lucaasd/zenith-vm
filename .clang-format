@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 0
+NamespaceIndentation: All
+AllowShortEnumsOnASingleLine: false
+FixNamespaceComments: false
+AccessModifierOffset: -2
+AlignArrayOfStructures: None
+BraceWrapping:
+    AfterFunction: true
+    AfterControlStatement: true
+    AfterEnum: true
